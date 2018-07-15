@@ -1,8 +1,8 @@
 # **SALM (python)** #
 - - -
 ## **Introduction** ##
-* Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation using inertial measurement unit (IMU), odometry and laser measurements
-* Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
+### * **Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation using inertial measurement unit (IMU), odometry and laser measurements ###
+###* **Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter ###
 
 ## **Results** ##
 * map 1  
