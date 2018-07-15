@@ -16,7 +16,7 @@
 * [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov)
 
 ## **Run** ##
-1. Put the program under ```src``` file.
-2. Put the training data under ```trainset``` file.
-3. Put the testing data under ```testset``` file.
-4. Run the program by input ```python main.py``` in the command line.  
+1. Put the program under ```src```
+2. Put the training data under ```trainset```
+3. Put the testing data under ```testset```
+4. Run the program with ```python main.py```
