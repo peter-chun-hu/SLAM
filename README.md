@@ -12,8 +12,8 @@
 
 ## **Requirements** ##
 * Python 3
-* [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs)
-* [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs)
+* [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov)
+* [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov)
 
 ## **Run** ##
 1. Put the program under ```src``` file.
