@@ -5,15 +5,15 @@
 * ### Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
 
 ## **Results**
-* ### map 1
+* ### Map 1
 ![Alt text](img/map1.png)
-* ### map 2
+* ### Map 2
 ![Alt text](img/map2.png)
 
 ## **Requirements**
 * ### Python 3 
-* ### [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov 
-* ### [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov 
+* ### [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov)
+* ### [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov)
 
 ## **Run**
 * ### Put the program under ```src```
