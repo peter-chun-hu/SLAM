@@ -5,9 +5,9 @@
 * Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
 
 ## **Results** ##
-* map 1
+* map 1  
 ![Alt text](img/map1.png)
-* map 2
+* map 2  
 ![Alt text](img/map2.png)
 
 ## **Requirements** ##
