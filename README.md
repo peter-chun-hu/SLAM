@@ -16,7 +16,7 @@
 * [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs)
 
 ## **Run** ##
-1. Put the program under /src file.
-2. Put the training data under /trainset file.
-3. Put the testing data under /testset file.
-4. Run the program by input "python main.py" in the command line.  
+1. Put the program under ```src``` file.
+2. Put the training data under ```trainset``` file.
+3. Put the testing data under ```testset``` file.
+4. Run the program by input ```python main.py``` in the command line.  
