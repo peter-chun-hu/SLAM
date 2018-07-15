@@ -15,7 +15,7 @@
 * ### [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov 
 * ### [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov 
 
-## **Run** ##
+## **Run**
 * ### Put the program under ```src```
 * ### Put the training data under ```trainset```
 * ### Put the testing data under ```testset```
