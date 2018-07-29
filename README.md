@@ -6,9 +6,9 @@
 
 ## **Results**
 * ### Map 1
-![Alt text](img/map1.png)
+![map1](img/map1.png)
 * ### Map 2
-![Alt text](img/map2.jpg)
+![map2](img/map2.jpg)
 
 ## **Requirements**
 * ### Python 3 
