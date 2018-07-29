@@ -9,7 +9,7 @@
   <img src="img/map1.png" width="575">  
 * Map 2  
   <img src="img/map2.png" width="575">  
-
+* [Report](report.pdf)
 ## **Requirements**
 * Python 3 
 * [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov)
