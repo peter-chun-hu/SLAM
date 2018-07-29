@@ -6,9 +6,9 @@
 
 ## **Results**
 * Map 1  
-<img src="img/map1.png" width="575">  
+  <img src="img/map1.png" width="575">  
 * Map 2  
-<img src="img/map2.png" width="575">  
+  <img src="img/map2.png" width="575">  
 
 ## **Requirements**
 * Python 3 
