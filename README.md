@@ -6,7 +6,7 @@
 
 ## **Results**
 * ### Map 1
-![map1](img/map1.JPG)
+![map1](img/map1.png)
 * ### Map 2
 ![map2](img/map2.JPG)
 
