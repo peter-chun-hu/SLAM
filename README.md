@@ -8,7 +8,7 @@
 * ### Map 1
 ![Alt text](img/map1.png)
 * ### Map 2
-![Alt text](img/map2.png)
+![Alt text](img/map2.jpg)
 
 ## **Requirements**
 * ### Python 3 
